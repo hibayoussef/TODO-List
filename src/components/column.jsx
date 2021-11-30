@@ -10,8 +10,7 @@ const useStyles = makeStyles(() => ({
     fontWeight: 800,
     lineHeight: "32.68px",
     letter: "8%",
-    color: "#313131",
-    backgroundColor: '#313131'
+    color: "#313131"
   },
   subject: {
     fontSize: "13px",
